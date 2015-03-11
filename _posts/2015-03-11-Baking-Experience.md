@@ -3,7 +3,7 @@ layout: blog
 category: blog
 title: First okay loaf
 published: true
-splash: "/media/images/bread/2015-03-11/IMG_0130.jpg"
+splash: "/media/images/breads/2015-03-11/IMG_0130.jpg"
 ---
 
 So this is the first entry I have actually written directly for the Jekyll site. All of the other posts were VERY quickly added to the site with very little formatting.
