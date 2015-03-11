@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: "Bread Baking - March 5th, 2015"
+published: true
 ---
-
-## March 5th, 2015
 
 Tried to bake using the Bouchon Bakery: Master Dough recepie, to make a batard.
 

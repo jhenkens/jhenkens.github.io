@@ -1,4 +1,8 @@
-## March 11th, 2015
+---
+layout: post
+title: "Bread Baking - March 11th, 2015"
+published: true
+---
 
 So this is the first entry I have actually written directly for the Jekyll site. All of the other posts were VERY quickly added to the site with very little formatting.
 

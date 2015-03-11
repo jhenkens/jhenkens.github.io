@@ -1,8 +1,8 @@
 ---
+layout: post
+title: "Bread Baking - March 6th, 2015"
 published: true
 ---
-
-## March 6th, 2015
 
 Poolish started at 8:20PM Mar05.txt. A larger pinch of yeast was used than Mar05.
 Used Glad press'n'seal, but ensured that there is now space for air exchange.

@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: "Bread Baking - March 9th, 2015"
+published: true
 ---
-
-## March 9th, 2015
 
 Poolish was started Mar08 at 6:30PM. Poolish was constructed with more yeast than supposed to, by accident. Likely 0.4 grams rather than 0.1.
 Bread was started at 9:45AM, over 15 hours after the poolish was started. The poolish still looked very active due to the high yeast levels, it was still bubbling. Poolish was left on counter over night.
