@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+cateogry: blog
 title: "Bread Baking - March 9th, 2015"
 published: true
 ---

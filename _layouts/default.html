@@ -1,51 +1,31 @@
+---
+title: 'This is my Site Title'
+---
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+<head>
+  <title>Site Title {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+  <meta charset='UTF-8'/>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link rel='alternate' type='application/rss+xml' title='RSS' href='SITEURLGOESHERE/blog.rss' />
+  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
+  <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
+</head>
+<body>
+  <div class='container'>
+    <div class='col12 clearfix'>
+      <div class='header col6 margin3 pad4h'>
+        <div class='clearfix col12'>
+          <div class='menu fr'>
+            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
+            <a href='//github.com/prose/starter'>Fork on GitHub</a>
           </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
+          <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+        </div>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
-</html>
+    {{content}}
+  </div>
+  <script src='{{site.baseurl}}/site.js'></script>
+</body>

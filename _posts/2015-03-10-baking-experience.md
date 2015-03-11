@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+cateogry: blog
 title: "Bread Baking - March 5th, 2015"
 published: true
 ---
@@ -27,6 +28,6 @@ Loaf was out of the oven at 9:00PM. Oven light was out so it was difficult to se
 Taste at 30min out: Flavor is decent, crumb is too dense for most of the loaf, but has some decent development in a few places.
 Crust is not chewy, but not particularly crunchy either. Perhaps too much steam was used.
 
-![Crust/Crumb of my first loaf ever](/images/breads/3-5-2015/IMG_0109.jpg)
+![Crust/Crumb of my first loaf ever](/media/images/breads/3-5-2015/IMG_0109.jpg)
 
 Ideas: We need the poolish to do more. Perhaps use very slightly less water during dough formation. Perhaps use a cornmeal or oil on the transfer peel. Replace lightbulb in oven to be able to inspect better.

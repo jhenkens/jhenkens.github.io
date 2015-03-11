@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+cateogry: blog
 title: "Bread Baking - March 6th, 2015"
 published: true
 ---
@@ -28,5 +29,5 @@ I had to manually separate using the bench scraper.
 Additionally, loafs caught in the middle before the edges, and are thus banana shaped on the peel.
 
 Out of the oven at 2:13. I think the oven might run a bit hot, might need to vent at 15 minutes next time and reduce temp to 425 or so.
-![Exterior just after baking](/images/breads/3-6-2015/IMG_0114.JPG)
-![Profile view of short loaf after cooling](/images/breads/3-6-2015/IMG_0115.JPG)
+![Exterior just after baking](/media/images/breads/3-6-2015/IMG_0114.JPG)
+![Profile view of short loaf after cooling](/media/images/breads/3-6-2015/IMG_0115.JPG)

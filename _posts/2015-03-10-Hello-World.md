@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+cateogry: blog
 title: "Welcome to Cooking with Johan!"
 published: true
 ---
