@@ -1,6 +1,6 @@
 ---
 layout: blog
-cateogry: blog
+category: blog
 title: "Bread Baking - March 5th, 2015"
 published: true
 ---

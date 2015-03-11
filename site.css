@@ -299,6 +299,10 @@ table {
 .prose p {
   margin:0 0 10px;
   }
+.prose img {
+ margin:5%;
+ width:90%;
+ }
 
 .icon {
   background:transparent url(img/sprite.png) no-repeat 0 0;

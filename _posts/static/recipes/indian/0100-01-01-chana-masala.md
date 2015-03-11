@@ -1,5 +1,9 @@
-## Johan's Chana Masala
-
+---
+layout: page
+published: true
+permalink: recipes/indian/chana-masala
+title: "Johan's Chana Masala"
+---
 I've made this dish a few times, and I'm beginning to like it quite well.
 
 - 1-2 teaspoon Garam Masala
