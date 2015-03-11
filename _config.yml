@@ -77,7 +77,7 @@ prose:
   siteurl: 'http://cooking.johanhenkens.com'
   media: "images"
   metadata:
-  	_posts:
+    _posts:
       - name: "category"
         field:
           element: "hidden"
