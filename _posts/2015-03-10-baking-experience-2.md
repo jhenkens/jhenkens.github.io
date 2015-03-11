@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## March 6th, 2015
