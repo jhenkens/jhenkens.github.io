@@ -11,7 +11,10 @@ section: blog
     {% if date != ndate %}
       <h4 class='month'>{{item.date | date: '%B %Y'}}</h4>
     {% endif %}
-    <a class='item' href='{{site.baseurl}}{{item.url}}'>{{item.title}} <span class='date'>&#126; {{item.date | date:"%b %d"}}</span></a>
+    <div class='item'>
+        <a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a>
+        <span class='date'>{{item.date | date:"%b %d"}}</span>
+    </div>
   {% endfor %}
 </div>
 

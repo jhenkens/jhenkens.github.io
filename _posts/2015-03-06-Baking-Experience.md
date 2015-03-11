@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: blog
-title: "Bread Baking - March 6th, 2015"
+title: "Got some flavor, not really anything else"
 published: true
 ---
 

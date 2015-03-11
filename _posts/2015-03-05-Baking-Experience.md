@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: blog
-title: "Bread Baking - March 5th, 2015"
+title: "My first attempt at baking"
 published: true
 ---
 
