@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Cooking with Johan!"
-published: false
+published: true
 ---
 
 Hi reader,
