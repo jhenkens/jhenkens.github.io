@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: "Welcome to Cooking with Johan!"
+published: false
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi reader,
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+My name is Johan Henkens. I'm a pretty terrible cook, and an even worse baker. I'm going to be sharing my experiences in becoming a better baker, and hopefully a better cook. Additionally, I'll be logging some recepies that I enjoy making. This is mostly for my own benefit, to keep track of stuff as time goes on.
