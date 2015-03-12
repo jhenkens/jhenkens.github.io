@@ -1,6 +1,5 @@
 name: Johan Henkens
 description: Cool Dude in the Bay Area
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 baseurl: ''
 permalink: pretty
 markdown: rdiscount
@@ -12,7 +11,7 @@ footer-links:
   stackoverflow: users/3495046/johan-henkens
 prose:
   rooturl: '_posts'
-  siteurl: 'http://cooking.johanhenkens.com'
+  siteurl: 'http://johanhenkens.com'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media/images'
   metadata:
@@ -100,7 +99,7 @@ prose:
 
 disqus: johanhenkens
 google_analytics:
-url: http://cooking.johanhenkens.com
+url: http://johanhenkens.com
 #permalink: /:year-:month-:day/:title/
 #
 exclude:
