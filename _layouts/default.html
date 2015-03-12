@@ -3,29 +3,40 @@ title: 'The ramblings of a false dutchman'
 ---
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Jhenkens' Stuff {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
-  <meta charset='UTF-8'/>
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='cooking.johanhenkens.com/blog.rss' />
-  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
-  <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
-</head>
-<body>
-  <div class='container'>
-    <div class='col12 clearfix'>
-      <div class='header col6 margin3 pad4h'>
-        <div class='clearfix col12'>
-          <div class='menu fr'>
-            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
-            <a class='{% if page.url == "recipes/" %}active{% endif %}' href='{{site.baseurl}}/recipes'>Recipes</a>
-          </div>
-          <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+    <head>
+        <title>Jhenkens' Stuff {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+        <meta charset='UTF-8'/>
+        <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+        <link rel='alternate' type='application/rss+xml' title='RSS' href='johanhenkens.com/blog.rss' />
+        <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+        <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
+    </head>
+    <body>
+        <div class='container header'>
+            <div class='row'>
+                <div class='default-column-widths half-column'>
+                    <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
+                </div>
+                <div class='default-column-widths half-column menu no-offset'>
+                    <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
+                    <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
+                    <a class='{% if page.section == "cooking" %}active{% endif %}' href='{{site.baseurl}}/cooking'>Cooking</a>
+                    <a class='{% if page.url == "recipes/" %}active{% endif %}' href='{{site.baseurl}}/recipes'>Recipes</a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-    {{content}}
-  </div>
-  <script src='{{site.baseurl}}/site.js'></script>
-</body>
+        <div class='content'>
+            {{content}}
+        </div>
+        <div class="wrapper-footer">
+            <footer class="footer">
+            {% include svg-icons.html %}
+            </footer>
+        </div>
+        <script src='{{site.baseurl}}/site.js'></script>
+    </body>
+</html

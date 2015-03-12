@@ -1,11 +1,11 @@
 ---
 layout: default
-section: blog
+section: cooking
 ---
 <div class='container'>
     <div class='row'>
         <div class='default-column-widths listing'>
-            {% for item in site.categories.blog limit:1000 %}
+            {% for item in site.categories.cooking limit:1000 %}
                 {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
                 {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 

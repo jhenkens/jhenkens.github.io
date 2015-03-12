@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: blog
+layout: cooking
+category: cooking
 title: "Nothing really worked"
 published: true
 ---

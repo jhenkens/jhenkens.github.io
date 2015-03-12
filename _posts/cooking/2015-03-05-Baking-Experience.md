@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: blog
+layout: cooking
+category: cooking
 title: "My first attempt at baking"
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-layout: blog
-category: blog
+layout: cooking
+category: cooking
 title: "Got some flavor, not really anything else"
 published: true
 ---
