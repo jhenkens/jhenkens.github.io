@@ -22,10 +22,10 @@ title: 'The ramblings of a false dutchman'
                     <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
                 </div>
                 <div class='default-column-widths half-column menu no-offset'>
-                    <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
+                    <a class='{% if page.section == "about" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
                     <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
                     <a class='{% if page.section == "cooking" %}active{% endif %}' href='{{site.baseurl}}/cooking'>Cooking</a>
-                    <a class='{% if page.url == "recipes/" %}active{% endif %}' href='{{site.baseurl}}/recipes'>Recipes</a>
+                    <a class='{% if page.section == "recipes" %}active{% endif %}' href='{{site.baseurl}}/recipes'>Recipes</a>
                 </div>
             </div>
         </div>
