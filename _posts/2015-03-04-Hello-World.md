@@ -1,9 +1,10 @@
 ---
-published: true
-category: blog
 layout: blog
-title: "Welcome to Cooking with Johan!"
+category: blog
+published: true
+title: Hello world.
 ---
+
 Hi reader,
 
-My name is Johan Henkens. I'm a pretty terrible cook, and an even worse baker. I'm going to be sharing my experiences in becoming a better baker, and hopefully a better cook. Additionally, I'll be logging some recepies that I enjoy making. This is mostly for my own benefit, to keep track of stuff as time goes on.
+I'm not quite sure yet what I will be putting on this blog - likely various postings about tech, programming, and my career over the years, but I intend on also using the other parts of this site to chronicle my experiements in cooking and baking and have a place I can look back on to see what I have changed.
