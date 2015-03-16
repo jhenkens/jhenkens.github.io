@@ -1,8 +1,8 @@
 ---
 layout: cooking
 category: cooking
-published: false
-title: Untitled
+published: true
+title: "Crust, where are you?"
 ---
 
 Poolish was started at 11:15PM on Friday the 13th of March.
@@ -19,7 +19,4 @@ I used a medium amount of steam during the baking process. The oven was preheate
 ![IMG_0142.jpg](/media/images/breads/2015-03-14/IMG_0142.jpg)
 ![IMG_0145.jpg](/media/images/breads/2015-03-14/IMG_0145.jpg)
 
-
 Nice looking crumb, no crust again. Taste is decent, I just really want a damn crust!
-
-
