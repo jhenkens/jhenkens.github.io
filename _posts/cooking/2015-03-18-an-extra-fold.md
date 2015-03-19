@@ -13,5 +13,7 @@ I started making the dough at 12:35PM or so. Mixing started at 12:41PM, and was 
 
 Preshaping was slightly more difficult than the previous couple loaves - the dough stuck to the board very thoroughly. The same oven preparation and starting technique was used as last time. I attempted a better shaping of the dough, but it lost much of its shape during proofing - I really am unsure how a batard is supposed to proof, because anything I try to shape for a batard ends up far from one. I tried my hand at scoring better, but it still proved to be very difficult to get the blade to slice through the bread. Perhaps buy a set of blades and see if the shipped blade is dull. 
 
-Dough was placed in the oven at 6:32PM.
+Dough was placed in the oven at 6:32PM. It was removed at about 6:52, nearly 20 minutes of baking, as I probed the dough temp internally and it had not read 210F yet. The crust is much darker than previous loaves, and the deeper attempt at scoring showed more expansion, but still not anything like a true crust or score appearance.
+
+![IMG_0153.jpg](/media/images/breads/2015-03-18/IMG_0153.jpg)
 
