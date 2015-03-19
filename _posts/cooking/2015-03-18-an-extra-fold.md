@@ -1,7 +1,7 @@
 ---
 layout: cooking
 category: cooking
-published: false
+published: true
 title: An extra fold
 ---
 
@@ -16,4 +16,3 @@ Preshaping was slightly more difficult than the previous couple loaves - the dou
 Dough was placed in the oven at 6:32PM. It was removed at about 6:52, nearly 20 minutes of baking, as I probed the dough temp internally and it had not read 210F yet. The crust is much darker than previous loaves, and the deeper attempt at scoring showed more expansion, but still not anything like a true crust or score appearance.
 
 ![IMG_0153.jpg](/media/images/breads/2015-03-18/IMG_0153.jpg)
-
