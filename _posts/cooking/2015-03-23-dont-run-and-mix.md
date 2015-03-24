@@ -15,6 +15,6 @@ That said, the rest of the baking process I followed my friend's recipe for the 
 
 The resulting bread is my prettiest yet externally - a small segment actually sprung open through the scoring. But from the one slice I've tried so far, the texture is very, very chewy in the crumb, and kinda off in flavor. Upsetting, but acceptable given I knowingly messed up today.
 
-![](/media/images/breads/2015-03-20/IMG_0158.jpg)
-![](/media/images/breads/2015-03-20/IMG_0159.jpg)
+![](/media/images/breads/2015-03-23/IMG_0158.jpg)
+![](/media/images/breads/2015-03-23/IMG_0159.jpg)
 
