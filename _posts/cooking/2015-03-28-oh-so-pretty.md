@@ -15,7 +15,7 @@ I then transfered it to a bowl to rest for an hour before the first of two folds
 
 Per my friend's advice, I lowered my baking temperature from (according to my best guess/thermostats) 460F to 440F. This increased the bake time from about 22 minutes to about 26 minutes for the doughs interior to reach 210F (I'm getting pretty good about guessing when that is - last three batches I've been able to open the oven, stab the loaf, and have it read 210F exactly on the first try).
 
-Additionally, I decreased proofing time by about 10 minutes before I started transfering them to the parchment paper. I still need some work on shaping, transferring, and scoring, but things are getting better!
+Additionally, I decreased proofing time by about 10 minutes before I started transfering them to the parchment paper. Additionally, the loaves are proofed seam side up. I still need some work on shaping, transferring, and scoring, but things are getting better!
 
 One of the two loaves opened up beautifully, nearly the entire way down, and had a great football shape. Crumb seems maybe slightly dense, but taste is good.
 

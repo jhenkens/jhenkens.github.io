@@ -71,7 +71,7 @@ The finished diameter should be 2-3/4 inches. Lay the loaf on a generously flour
 
 #### Proofing
 
-Let proof in a baking couche, covered by a plastic or cardboard box, for 1 hour or until when the dough is delicately pressed with a finger, the impression remains.
+Let proof seam side up in a baking couche, covered by a plastic or cardboard box, for 1 hour or until when the dough is delicately pressed with a finger, the impression remains.
 
 Using the linen, move the dough, one piece at a time to each transfer peel, seam side up, and then to the oven peel lined with parchment paper, seam side down. To achieve bread ears, your blade must be held at about 30 degrees to the surface of the dough and slashed with a shallow cut, about 1/4 inch deep - without hesitation. If the slash is too deep, the flap may collapse from its own weight. If you hesitate, you risk dragging and tearing the skin of the dough.
 
