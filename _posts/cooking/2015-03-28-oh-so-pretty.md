@@ -20,9 +20,9 @@ Additionally, I decreased proofing time by about 10 minutes before I started tra
 One of the two loaves opened up beautifully, nearly the entire way down, and had a great football shape. Crumb seems maybe slightly dense, but taste is good.
 
 ![](/media/images/breads/2015-03-28/IMG_0162.jpg)
-![](/media/images/breads/2015-03-28/IMG_0163.jpg)
-![](/media/images/breads/2015-03-28/IMG_0164.jpg)
-![](/media/images/breads/2015-03-28/IMG_0165.jpg)
+![](/media/images/breads/2015-03-28/IMG_0163.JPG)
+![](/media/images/breads/2015-03-28/IMG_0164.JPG)
+![](/media/images/breads/2015-03-28/IMG_0165.JPG)
 
 
 I'm so excited about this one loaf that I've already (as of 6:15PM on 3/28/2015) started a poolish for two more loaves tomorrow morning.
