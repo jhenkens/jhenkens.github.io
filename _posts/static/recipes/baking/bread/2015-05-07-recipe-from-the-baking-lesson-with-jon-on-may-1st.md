@@ -1,6 +1,6 @@
 ---
 layout: page
-published: false
+published: true
 title: Recipe From the Baking Lesson with Jon on May 1st
 ---
 
