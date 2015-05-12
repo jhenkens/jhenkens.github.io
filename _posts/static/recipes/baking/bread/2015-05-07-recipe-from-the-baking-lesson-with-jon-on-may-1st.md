@@ -1,6 +1,7 @@
 ---
 layout: page
 published: true
+permalink: recipes/baking/bread/jons-baking-lesson-dough
 title: Recipe From the Baking Lesson with Jon on May 1st
 ---
 
