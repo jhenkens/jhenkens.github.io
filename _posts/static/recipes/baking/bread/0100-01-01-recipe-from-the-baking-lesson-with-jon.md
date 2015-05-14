@@ -1,8 +1,8 @@
 ---
 layout: page
 published: true
-permalink: recipes/baking/bread/jon-bouchon-master-dough
-title: "Bouchon Bakery's Master Dough, as provided to me by Jon"
+permalink: recipes/baking/bread/jons-baking-lesson-dough
+title: Recipe From the Baking Lesson with Jon
 ---
 
 ### Baker's Percentages
@@ -10,49 +10,51 @@ title: "Bouchon Bakery's Master Dough, as provided to me by Jon"
 
 #### Overall Formula
 * 100% all-purpose flour
-* 71% water
+* 66% water
 * 2% salt
-* 0.2% instant yeast
+* 0.4% instant yeast
 
-Total yield: 173.2%
+Total yield: 168.4%
 
 #### Poolish
 * 100% all-purpose flour
 * 100% water
 * 0.07% instant yeast
+    
 
 ### Ingredients
 #### For the poolish
-* 150 grams unbleached all-purpose flour
-* 150 grams water, ideally at 75 degrees F
+* 165 grams unbleached all-purpose flour
+* 165 grams water, ideally at 75 degrees F
 * 0.1 gram instant yeast (or about a pinch)
 
 #### For the final dough
-* 450 grams unbleached all-purpose flour
-* 275 grams water, ideally at 75 degrees F
-* 0.9 gram instant yeast
-* 12 grams fine sea salt
+* 335 grams unbleached all-purpose flour
+* 165 grams water, ideally at 75 degrees F
+* 1.9 gram instant yeast
+* 10 grams fine sea salt
 
 #### Other Ingredients
 * Canola oil spray
 * White rice flour for dusting work surface
 
 ### Other details
-* YIELD: 2 bâtards, about 500 grams each
+* YIELD: 2 bâtards or baguettes, about 400 grams each
 * OVEN TEMPERATURE: 460 degrees F (standard)
-* SCORE PATTERN: 1 diagonal cut
+* SCORE PATTERN: 1 diagonal cut (for bâtards) or 5 overlapping diagonal cuts (for baguettes)
 
 ### Time required
 * PRE-FERMENT: 12 to 15 hours
 * MIXING: 3 minutes at 1st speed, 3 minutes at 2nd speed
-* BULK FERMENTATION: 3 hours
-* FOLDING: Twice in 1-hour intervals
+* BULK FERMENTATION: 2 hours
+* FOLDING: Once at 1 hour
 * BENCH REST: 30 minutes
-* PROOFING: 1 hour
-* BAKING TIME: 30 minutes
+* PROOFING: 1 to 1.5 hours
+* BAKING TIME: 24 to 26 minutes minutes
 
 Total time including measuring ingredients to removal from oven:
-5.5 hours
+4.5 hours
+
 
 ### Directions
 #### For the poolish
@@ -62,10 +64,10 @@ Combine flour and yeast in a 9-inch porcelain bowl and mix with a butter-knife. 
 Add all the ingredients except the salt to the mixing bowl. Mix on first speed for 3 minute in order to incorporate the ingredients, using a rubber spatula if needed to aid the mixer. Stop the mixer again and sprinkle the yeast over the dough and finish mixing on second speed for 3 minutes. The dough should be supple and moderately loose. Desired dough temperature: 76 degrees F. 
 
 #### Bulk fermentation
-The dough is now in the 3-hour bulk fermentation stage. Set a timer for 3, 2, and 1 hour(s), respectively. Spray a 5-quart stainless-steel bowl with canola oil spray, and transfer the dough to the bowl
+The dough is now in the 2-hour bulk fermentation stage. Set a timer for 2, and 1 hour(s), respectively. Spray a 5-quart stainless-steel bowl with canola oil spray, and transfer the dough to the bowl
 
 #### Folding
-Fold the dough twice, at 1-hour intervals, starting 1 hour after mixing. 
+Fold the dough once, 1 hour after mixing. 
 
 Lightly dust the work-surface with flour. Using a bowl scraper, release the dough and turn it onto the work-surface. The dough will be very sticky. Gently pat it into a rectangular shape, removing any large air bubbles and adding flour only as needed to keep the dough form sticking to the work-surface. Do not dust the top of the dough; it should stick to your fingers.
 
@@ -104,6 +106,7 @@ Further, to increase your chances of forming ears, it’s advised to use a curve
 
 #### Baking
 
-Transfer the dough to the baking stone, parchment and all. Immediately spray water (about 2 cups) from the SuperSoaker onto the steam generator (rocks and chain). Quickly shut the door and bake for 25-30 minutes at 460 degrees F (standard), until the crumb reaches a temperature of at least 210F, and crust is to desired color. Rotate the loaves after 16 minutes for more consistent baking. Let cool completely on a cooling rack for at least an hour before slicing.
+Transfer the dough to the baking stone, parchment and all. Immediately spray water (about 2 cups) from the SuperSoaker onto the steam generator (rocks and chain). Quickly shut the door and bake for 24-26 minutes at 460 degrees F (standard), until the crumb reaches a temperature of at least 210F, and crust is to desired color. Rotate the loaves after 16 minutes for more consistent baking. Let cool completely on a cooling rack for at least an hour before slicing.
 
 {% include_relative bouchon_parts/0100-01-01-bouchon-steam-generating-kit.md %}
+
