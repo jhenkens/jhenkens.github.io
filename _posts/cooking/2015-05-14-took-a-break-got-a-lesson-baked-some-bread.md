@@ -1,9 +1,10 @@
 ---
 layout: cooking
 category: cooking
-published: false
+published: true
 title: "Took a break, got a lesson, baked some bread."
 ---
+
 
 On the first weekend of May, I went down to Santa Barbara for a family wedding. While I was there, I made sure I left myself extra time to see my friends Jon and Danny, who were kind enough to host me for dinner and a bread baking lesson. Jon has given me help throughout this process, but baking bread hands on with him was a huge help, with minor improvements here and there, and major improvements in my preshaping and shaping.
 
