@@ -24,4 +24,8 @@ And then again three days later.
 
 Pretty dramatic change in terms of the oven spring, how much it opened up, the texture, etc. The crust actually crumbles a bit when cutting, has a bit of crunch to it, allows for the crumb to open up and become less dense.
 
-I'm quite grateful for the advice I was given, and the results show. Now I've just got to keep it regular, and hopefully go back and try out some of the other hydration doughs I've attempted before with the newly learned techniques. 
+I'm quite grateful for the advice I was given, and the results show. 
+
+I still need to work on making my bâtards a bit more football shaped, and perhaps work on maybe a slightly shallower and more consistent scoring or a lower temperature to reduce the charring of the ear.
+
+Now I've just got to keep it regular, and hopefully go back and try out some of the other hydration doughs I've attempted before with the newly learned techniques while honing them.
