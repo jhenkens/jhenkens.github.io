@@ -6,7 +6,7 @@ title: Recipe From the Baking Lesson with Jon
 ---
 
 ### Baker's Percentages
-25% pre-fermented flour
+33% pre-fermented flour
 
 #### Overall Formula
 * 100% all-purpose flour
