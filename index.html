@@ -4,19 +4,9 @@ section: blog
 ---
 <div class='container'>
     <div class='row'>
-        <div class='default-column-widths listing'>
-            {% for item in site.categories.blog limit:1000 %}
-                {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
-                {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
-
-                {% if date != ndate %}
-                    <h4 class='month'>{{item.date | date: '%B %Y'}}</h4>
-                {% endif %}
-                <div class='item'>
-                    <a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a>
-                    <span class='date'>{{item.date | date:"%b %d"}}</span>
-                </div>
-            {% endfor %}
+        <div class='default-column-widths'>
+            <p>Hi there,</p>
+            <p>My name is Johan Henkens. I am a recent graduate of University of California, Santa Barbara, having completed both a B.S. and M.S. in Computer Science. I am currently exploring new opporunities as a software engineer in the Silicon Valley. If you are interested in me in that regard, please find my resume linked above, and please do reach out to me via email.</p>
         </div>
     </div>
 </div>

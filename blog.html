@@ -1,17 +1,11 @@
 ---
 layout: default
-section: cooking
-title: Cooking
+section: blog
 ---
 <div class='container'>
     <div class='row'>
-        <div class='default-column-widths'>
-            <p>I don't cook often. I may or may not be baking often. I likely won't be posting here often. But I have this space so that I may write down any specific kitchen experiements I make, and record my successes and failures for myself to see.</p>
-        </div>
-    </div>
-    <div class='row'>
         <div class='default-column-widths listing'>
-            {% for item in site.categories.cooking limit:1000 %}
+            {% for item in site.categories.blog limit:1000 %}
                 {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
                 {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
 

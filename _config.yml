@@ -1,5 +1,5 @@
 name: Johan Henkens
-description: Cool Dude in the Bay Area
+description: Bay Area Native - Software Engineer - Gaucho
 baseurl: ''
 permalink: pretty
 markdown: rdiscount
@@ -9,6 +9,7 @@ footer-links:
   github: jhenkens
   linkedin: jhenkens
   stackoverflow: users/3495046/johan-henkens
+title: "Johan's Space"
 prose:
   rooturl: '_posts'
   siteurl: 'http://johanhenkens.com'
@@ -61,7 +62,7 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
+          value: "Cooking"
       - name: "splash"
         field:
           element: "text"
