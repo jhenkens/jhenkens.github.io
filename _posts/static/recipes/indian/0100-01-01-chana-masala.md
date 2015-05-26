@@ -6,6 +6,8 @@ title: "Johan's Chana Masala"
 ---
 I've made this dish a few times, and I'm beginning to like it quite well.
 
+
+### Ingredients
 - 1-2 teaspoon Garam Masala
 - 1 teaspoon Tumeric
 - 1 teaspoon ground Coriander
@@ -19,7 +21,7 @@ I've made this dish a few times, and I'm beginning to like it quite well.
 
 If you would like to add some heat to the masala, add another teaspoon of chilipowder.
 
-**For the rice:**
+#### For the rice:
 - Basmati rice (2 cups uncooked is usually good for above ingredients)
 - 1/2 Tsp. Tumeric
 - 1/4 Tsp. Coriander
