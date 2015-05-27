@@ -88,7 +88,7 @@ Meanwhile, set up your 13-by-22-inch baking stone and steam-generating kit and p
 
 Let proof in a baking couche, covered by a plastic or cardboard box, for 1 hour or until when the dough is delicately pressed with a finger, the impression remains.
 
-{% include_relative recipe_parts/0100-01-01-batard-scoring.md %}
+{% include_relative recipe_parts/0100-01-01-scoring.md type="batard" %}
 
 #### Baking
 

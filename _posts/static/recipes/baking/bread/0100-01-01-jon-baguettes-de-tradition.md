@@ -70,7 +70,7 @@ This recipe, obviously, is for baguettes. Sadly, I do not have instructions for 
 
 Let proof seam side up in a baking couche, covered by a plastic or cardboard box, for 1.5 hours or until when the dough is delicately pressed with a finger, the impression remains.
 
-{% include_relative recipe_parts/0100-01-01-batard-scoring.md %}
+{% include_relative recipe_parts/0100-01-01-scoring.md type="batard" %}
 
 #### Baking
 

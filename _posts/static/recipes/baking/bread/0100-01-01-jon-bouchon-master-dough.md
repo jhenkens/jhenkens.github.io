@@ -84,10 +84,10 @@ Meanwhile, set up your 13-by-22-inch baking stone and steam-generating kit and p
 
 Let proof seam side up in a baking couche, covered by a plastic or cardboard box, for 1 hour or until when the dough is delicately pressed with a finger, the impression remains.
 
-{% include_relative recipe_parts/0100-01-01-batard-scoring.md %}
+{% include_relative recipe_parts/0100-01-01-scoring.md type="batard" %}
 
 #### Baking
 
 Transfer the dough to the baking stone, parchment and all. Immediately spray water (about 2 cups) from the SuperSoaker onto the steam generator (rocks and chain). Quickly shut the door and bake for 25-30 minutes at 460 degrees F (standard), until the crumb reaches a temperature of at least 210F, and crust is to desired color. Rotate the loaves after 16 minutes for more consistent baking. Let cool completely on a cooling rack for at least an hour before slicing.
 
-{% include_relative baking_parts/0100-01-01-bouchon-steam-generating-kit.md %}
+{% include_relative recipe_parts/0100-01-01-bouchon-steam-generating-kit.md %}
