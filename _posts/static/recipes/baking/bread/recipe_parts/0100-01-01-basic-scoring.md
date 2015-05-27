@@ -1,0 +1,3 @@
+Using the linen, move the dough, one piece at a time to each transfer peel, and then to the oven peel lined with parchment paper, seam side down. To achieve bread ears, your blade must be held at about 30 degrees to the surface of the dough and slashed with a shallow cut, about 1/4 inch deep - without hesitation. If the slash is too deep, the flap may collapse from its own weight. If you hesitate, you risk dragging and tearing the skin of the dough.
+
+Further, to increase your chances of forming ears, it’s advised to use a curved razor (also known as a baker's lame), preferably with a handle. Slash the dough with the corner of the razor, not the length of the blade. And use swift motions with your arm to score, not your wrist.
